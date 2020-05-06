@@ -1,1 +1,9 @@
 # IMD311
+personal website/myself.html
+personal website/education.html
+personal website/experiences.html
+personal website/family.html
+personal website/gallery.html
+personal website/memories.html
+personal website/others.html
+personal website/treasure.html
